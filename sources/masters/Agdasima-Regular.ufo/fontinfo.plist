@@ -176,11 +176,11 @@
     <key>postscriptFamilyOtherBlues</key>
     <array/>
     <key>postscriptFontName</key>
-    <string>Agdasima-Condensed</string>
+    <string>Agdasima-Regular</string>
     <key>postscriptForceBold</key>
     <false/>
     <key>postscriptFullName</key>
-    <string>Agdasima Condensed</string>
+    <string>Agdasima</string>
     <key>postscriptIsFixedPitch</key>
     <false/>
     <key>postscriptOtherBlues</key>
@@ -204,7 +204,7 @@
     <key>postscriptWeightName</key>
     <string>Regular</string>
     <key>styleMapFamilyName</key>
-    <string>Agdasima Cond</string>
+    <string>Agdasima</string>
     <key>styleMapStyleName</key>
     <string>regular</string>
     <key>styleName</key>

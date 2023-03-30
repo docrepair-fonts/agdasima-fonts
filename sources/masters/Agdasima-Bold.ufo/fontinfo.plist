@@ -166,11 +166,11 @@
     <key>postscriptFamilyOtherBlues</key>
     <array/>
     <key>postscriptFontName</key>
-    <string>DrDrape-Bold</string>
+    <string>Agdasima-Bold</string>
     <key>postscriptForceBold</key>
     <false/>
     <key>postscriptFullName</key>
-    <string>Dr Drape Bold</string>
+    <string>Agdasima Bold</string>
     <key>postscriptIsFixedPitch</key>
     <false/>
     <key>postscriptOtherBlues</key>
@@ -194,7 +194,7 @@
     <key>postscriptWeightName</key>
     <string>Bold</string>
     <key>styleMapFamilyName</key>
-    <string>Dr Drape</string>
+    <string>Agdasima</string>
     <key>styleMapStyleName</key>
     <string>bold</string>
     <key>styleName</key>
