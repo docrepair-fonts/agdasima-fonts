@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<designspace format="4.0">
+ <axes>
+  <axis default="400" name="weight" tag="wght" maximum="700" minimum="400">
+   <labelname xml:lang="en">Weight</labelname>
+  </axis>
+  <axis default="50" name="width" tag="wdth" maximum="200" minimum="50">
+   <labelname xml:lang="en">Width</labelname>
+   <map input="50" output="50"/>
+   <map input="100" output="100"/>
+   <map input="200" output="200"/>
+  </axis>
+ </axes>
+ <sources>
+  <source familyname="Agdasima" stylename="Bold" name="Bold" filename="masters/Agdasima-Bold.ufo">
+   <location>
+    <dimension name="weight" xvalue="700"/>
+    <dimension name="width" xvalue="50"/>
+   </location>
+  </source>
+  <source familyname="Agdasima" stylename="Regular" name="Regular" filename="masters/Agdasima-Regular.ufo">
+   <lib copy="1"/>
+   <groups copy="1"/>
+   <info copy="1"/>
+   <features copy="1"/>
+   <location>
+    <dimension name="weight" xvalue="400"/>
+    <dimension name="width" xvalue="50"/>
+   </location>
+  </source>
+ </sources>
+ <lib>
+  <dict>
+   <key>org.docrepair-fonts</key>
+   <dict>
+    <key>masters</key>
+    <array>
+     <string>mux_Regular</string>
+     <string>mux_Bold</string>
+     <string>mux_RegularXCond</string>
+     <string>mux_BoldXCond</string>
+     <string>mux_RegularCond</string>
+     <string>mux_BoldCond</string>
+     <string>mux_RegularXWide</string>
+     <string>mux_BoldXWide</string>
+     <string>mux_RegularWide</string>
+     <string>mux_BoldWide</string>
+    </array>
+    <key>vaxis</key>
+    <array>
+     <string>src_Light</string>
+     <string>src_Regular</string>
+     <string>src_Black</string>
+    </array>
+   </dict>
+   <key>org.docrepair-fonts.fit</key>
+   <dict>
+    <key>Bold</key>
+    <string>mux_BoldCond</string>
+    <key>Regular</key>
+    <string>mux_RegularCond</string>
+   </dict>
+  </dict>
+ </lib>
+ <instances>
+  <instance familyname="Agdasima" stylename="Regular" name="Regular" filename="instances/Agdasima-Regular.ufo">
+   <location>
+    <dimension name="width" xvalue="50"/>
+    <dimension name="weight" xvalue="400"/>
+   </location>
+  </instance>
+  <instance familyname="Agdasima" stylename="Bold" name="Bold" filename="instances/Agdasima-Bold.ufo">
+   <location>
+    <dimension name="width" xvalue="50"/>
+    <dimension name="weight" xvalue="700"/>
+   </location>
+  </instance>
+ </instances>
+</designspace>
