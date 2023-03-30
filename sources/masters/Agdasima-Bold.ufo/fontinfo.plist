@@ -24,6 +24,16 @@
         <key>y</key>
         <integer>203</integer>
       </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>name</key>
+        <string>f</string>
+        <key>x</key>
+        <integer>0</integer>
+        <key>y</key>
+        <integer>600</integer>
+      </dict>
     </array>
     <key>italicAngle</key>
     <integer>0</integer>

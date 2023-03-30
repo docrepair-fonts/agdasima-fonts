@@ -223,7 +223,7 @@
       <string>bracketleft</string>
       <string>bracketright</string>
       <string>hyphen</string>
-      <string>softhyphen</string>
+      <string>minus</string>
       <string>endash</string>
       <string>emdash</string>
       <string>underscore</string>
@@ -311,7 +311,6 @@
       <string>ogonek</string>
       <string>Omega</string>
       <string>Delta</string>
-      <string>minus</string>
       <string>mu</string>
     </array>
   </dict>
