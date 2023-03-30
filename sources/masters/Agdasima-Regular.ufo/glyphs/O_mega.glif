@@ -1,19 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Omega" format="2">
   <advance width="1056"/>
   <unicode hex="03A9"/>
+  <unicode hex="2126"/>
   <anchor x="275" y="0" name="bottom"/>
   <anchor x="275" y="649" name="center"/>
   <anchor x="358" y="14" name="ogonek"/>
   <anchor x="275" y="1298" name="top"/>
   <anchor x="47" y="1298" name="topleft"/>
   <anchor x="405" y="1508" name="topright"/>
+  <outline>
+  </outline>
   <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>O%</string>
-  <key>public.markColor</key>
-  <string>0.6,1,0.602,1</string>
-  </dict>
+    <dict>
+      <key>com.fontlab.recipe</key>
+      <string>O%</string>
+      <key>public.markColor</key>
+      <string>0.6,1,0.602,1</string>
+    </dict>
   </lib>
 </glyph>
