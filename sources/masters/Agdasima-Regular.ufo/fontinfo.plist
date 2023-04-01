@@ -7,7 +7,7 @@
     <key>capHeight</key>
     <integer>1434</integer>
     <key>copyright</key>
-    <string>Copyright 2023 The Agdasima Project Authors (https://github.com/docrepair-fonts/agdasima-fonts)</string>
+    <string>Copyright 2023 The Agdasima Project Authors (https://github.com/docrepair-fonts/agdasima-fonts).</string>
     <key>descender</key>
     <integer>-369</integer>
     <key>familyName</key>
@@ -80,9 +80,9 @@
     <key>openTypeHheaLineGap</key>
     <integer>0</integer>
     <key>openTypeNameDesigner</key>
-    <string>Patric King</string>
+    <string>The DocRepair Project, Patric King</string>
     <key>openTypeNameDesignerURL</key>
-    <string>https://houseofpretty.com/</string>
+    <string>https://github.com/docrepair-fonts/agdasima-fonts</string>
     <key>openTypeNameLicense</key>
     <string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL</string>
     <key>openTypeNameLicenseURL</key>
@@ -180,7 +180,7 @@
     <key>postscriptForceBold</key>
     <false/>
     <key>postscriptFullName</key>
-    <string>Agdasima</string>
+    <string>Agdasima Regular</string>
     <key>postscriptIsFixedPitch</key>
     <false/>
     <key>postscriptOtherBlues</key>
