@@ -1,0 +1,11 @@
+name: Agdasima
+repository_url: https://github.com/docrepair-fonts/agdasima-fonts
+category:
+  - SANS_SERIF
+designer: The DocRepair Project, Patric King
+branch: main
+files:
+  OFL.txt: OFL.txt
+  DESCRIPTION.en_us.html: DESCRIPTION.en_us.html
+  fonts/ttf/Agdasima-Regular.ttf: Agdasima-Regular.ttf
+  fonts/ttf/Agdasima-Bold.ttf: Agdasima-Bold.ttf
