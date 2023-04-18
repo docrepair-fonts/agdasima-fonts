@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="minus" format="2">
   <advance width="942"/>
-  <unicode hex="00AD"/>
   <unicode hex="2212"/>
+  <unicode hex="00AD"/>
   <outline>
     <contour>
       <point x="418" y="606" type="line"/>

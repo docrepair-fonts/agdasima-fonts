@@ -13,6 +13,8 @@
   </outline>
   <lib>
     <dict>
+      <key>com.fontlab.metricsWidth</key>
+      <string>:ref_Regular</string>
       <key>com.fontlab.recipe</key>
       <string>O%</string>
       <key>public.markColor</key>

@@ -4,28 +4,30 @@
   <unicode hex="002A"/>
   <outline>
     <contour>
-      <point x="92" y="1115" type="line"/>
-      <point x="373" y="1193" type="line"/>
-      <point x="361" y="1050" type="line"/>
-      <point x="453" y="1050" type="line"/>
-      <point x="440" y="1195" type="line"/>
-      <point x="722" y="1115" type="line"/>
-      <point x="768" y="1177" type="line"/>
-      <point x="478" y="1242" type="line"/>
-      <point x="768" y="1307" type="line"/>
-      <point x="722" y="1370" type="line"/>
-      <point x="440" y="1291" type="line"/>
-      <point x="453" y="1435" type="line"/>
-      <point x="361" y="1435" type="line"/>
-      <point x="373" y="1290" type="line"/>
-      <point x="92" y="1370" type="line"/>
-      <point x="47" y="1307" type="line"/>
-      <point x="339" y="1242" type="line"/>
-      <point x="47" y="1177" type="line"/>
+      <point x="191" y="859" type="line"/>
+      <point x="373" y="974" type="line"/>
+      <point x="363" y="761" type="line"/>
+      <point x="449" y="761" type="line"/>
+      <point x="438" y="976" type="line"/>
+      <point x="621" y="859" type="line"/>
+      <point x="664" y="934" type="line"/>
+      <point x="473" y="1032" type="line"/>
+      <point x="664" y="1130" type="line"/>
+      <point x="621" y="1206" type="line"/>
+      <point x="438" y="1090" type="line"/>
+      <point x="449" y="1304" type="line"/>
+      <point x="363" y="1304" type="line"/>
+      <point x="373" y="1089" type="line"/>
+      <point x="191" y="1206" type="line"/>
+      <point x="148" y="1130" type="line"/>
+      <point x="342" y="1032" type="line"/>
+      <point x="148" y="934" type="line"/>
     </contour>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsWidth</key>
+  <string>:ref_Regular</string>
   <key>public.markColor</key>
   <string>0.6,1,0.602,1</string>
   <key>public.postscript.hints</key>
@@ -33,15 +35,13 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>dacfe603ca19e7fbb596a7bd8a3bda9b3b323d1f6a4eb744e10c83dae32232dba8b1205b26b63978dd3ff1d5ab8a8399af1731c5b7955a7628234fe6e5b45c12</string>
+    <string>84302478eadb7fb82ea6b0cb916cb764a426228e572e10fc5826ebe16e12b7aaf7f9633c51eb0dec76e61e39df8dce23147601cb5df7571a39c9519b590cf223</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 954 21</string>
           <string>hstem 1304 -20</string>
-          <string>vstem 188 43</string>
         </array>
       </dict>
     </array>

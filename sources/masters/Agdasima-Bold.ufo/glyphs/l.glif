@@ -3,7 +3,6 @@
   <advance width="401"/>
   <unicode hex="006C"/>
   <anchor x="202" y="0" name="bottom"/>
-  <anchor x="693" y="673" name="center"/>
   <anchor x="202" y="1298" name="top"/>
   <anchor x="371" y="1007" name="topright"/>
   <outline>
@@ -16,6 +15,8 @@
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsWidth</key>
+  <string>:ref_Bold</string>
   <key>public.markColor</key>
   <string>0.6,1,0.602,1</string>
   <key>public.postscript.hints</key>

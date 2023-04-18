@@ -12,14 +12,16 @@
       <point x="305" y="700" type="line"/>
     </contour>
     <contour>
-      <point x="71" y="1071" type="line"/>
-      <point x="71" y="841" type="line"/>
-      <point x="367" y="841" type="line"/>
-      <point x="367" y="1071" type="line"/>
+      <point x="338" y="840" type="line"/>
+      <point x="338" y="1071" type="line"/>
+      <point x="103" y="1071" type="line"/>
+      <point x="103" y="840" type="line"/>
     </contour>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsWidth</key>
+  <string>:ref_Bold</string>
   <key>public.markColor</key>
   <string>0.6,1,0.602,1</string>
   </dict>

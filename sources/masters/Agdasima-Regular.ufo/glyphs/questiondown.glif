@@ -46,14 +46,16 @@
       <point x="163" y="-371"/>
     </contour>
     <contour>
-      <point x="621" y="892" type="line"/>
-      <point x="621" y="1071" type="line"/>
-      <point x="315" y="1071" type="line"/>
-      <point x="315" y="892" type="line"/>
+      <point x="551" y="892" type="line"/>
+      <point x="551" y="1071" type="line"/>
+      <point x="374" y="1071" type="line"/>
+      <point x="374" y="892" type="line"/>
     </contour>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsWidth</key>
+  <string>:ref_Regular</string>
   <key>public.markColor</key>
   <string>0.6,1,0.602,1</string>
   <key>public.postscript.hints</key>
@@ -61,7 +63,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>8b0f43720468782bcbb864644d654a22bc0e8bb8050eeb73cb7314f53080ae9c248f8312a5ec6b84e819b1fac1643c0c6aac07bc183901e5ca5aa663e76ad078</string>
+    <string>0a094fe0b7f67e7f7f429ce69b2328d6fbd5bb08a34ea824efcf1ce6285f42e25f51fa69a103a079d943a9073befae040daf9ceb980e8a3c4c5166048686fe50</string>
     <key>hintSetList</key>
     <array>
       <dict>

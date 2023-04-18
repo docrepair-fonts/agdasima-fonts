@@ -4,14 +4,16 @@
   <unicode hex="2022"/>
   <outline>
     <contour>
-      <point x="873" y="562" type="line"/>
-      <point x="873" y="885" type="line"/>
-      <point x="71" y="885" type="line"/>
-      <point x="71" y="562" type="line"/>
+      <point x="745" y="435" type="line"/>
+      <point x="745" y="932" type="line"/>
+      <point x="198" y="932" type="line"/>
+      <point x="198" y="435" type="line"/>
     </contour>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsWidth</key>
+  <string>:ref_Bold</string>
   <key>public.markColor</key>
   <string>0.6,1,0.602,1</string>
   <key>public.postscript.hints</key>
@@ -19,7 +21,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w944m873,562l873,885l71,885l71,562</string>
+    <string>w944m745,435l745,932l198,932l198,435</string>
     <key>hintSetList</key>
     <array>
       <dict>

@@ -3,27 +3,16 @@
   <advance width="1133"/>
   <unicode hex="2026"/>
   <outline>
-    <contour>
-      <point x="342" y="0" type="line"/>
-      <point x="342" y="231" type="line"/>
-      <point x="71" y="231" type="line"/>
-      <point x="71" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="686" y="0" type="line"/>
-      <point x="686" y="231" type="line"/>
-      <point x="415" y="231" type="line"/>
-      <point x="415" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="1027" y="0" type="line"/>
-      <point x="1027" y="231" type="line"/>
-      <point x="758" y="231" type="line"/>
-      <point x="758" y="0" type="line"/>
-    </contour>
+    <component base="period"/>
+    <component base="period" xOffset="377"/>
+    <component base="period" xOffset="754"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.metricsWidth</key>
+  <string>:ref_Bold</string>
   <key>public.markColor</key>
   <string>0.6,1,0.602,1</string>
   </dict>

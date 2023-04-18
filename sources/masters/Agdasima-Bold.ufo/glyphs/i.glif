@@ -19,6 +19,8 @@
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsWidth</key>
+  <string>:ref_Bold</string>
   <key>com.fontlab.recipe</key>
   <string>dotlessi+dotaccent</string>
   <key>public.markColor</key>

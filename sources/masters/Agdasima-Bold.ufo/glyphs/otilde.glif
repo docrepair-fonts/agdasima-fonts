@@ -15,6 +15,8 @@
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
+  <key>com.fontlab.metricsWidth</key>
+  <string>:ref_Bold</string>
   <key>com.fontlab.recipe</key>
   <string>o+tildecomb</string>
   <key>public.markColor</key>

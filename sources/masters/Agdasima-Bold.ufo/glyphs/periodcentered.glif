@@ -3,17 +3,18 @@
   <advance width="399"/>
   <unicode hex="2219"/>
   <unicode hex="00B7"/>
-  <anchor x="202" y="747" name="_center"/>
   <outline>
     <contour>
-      <point x="328" y="658" type="line"/>
-      <point x="328" y="835" type="line"/>
-      <point x="71" y="835" type="line"/>
-      <point x="71" y="658" type="line"/>
+      <point x="321" y="576" type="line"/>
+      <point x="321" y="807" type="line"/>
+      <point x="86" y="807" type="line"/>
+      <point x="86" y="576" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.fontlab.metricsWidth</key>
+      <string>:ref_Bold</string>
       <key>public.markColor</key>
       <string>0.6,1,0.602,1</string>
       <key>public.postscript.hints</key>
@@ -31,7 +32,7 @@
           </dict>
         </array>
         <key>id</key>
-        <string>w399m328,658l328,835l71,835l71,658</string>
+        <string>w399m321,576l321,807l86,807l86,576</string>
       </dict>
     </dict>
   </lib>

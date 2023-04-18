@@ -1,24 +1,24 @@
 <?xml version='1.0' encoding='utf-8'?>
 <designspace format="4.0">
  <axes>
-  <axis maximum="700" minimum="400" tag="wght" default="400" name="weight">
+  <axis name="weight" tag="wght" default="400" maximum="700" minimum="400">
    <labelname xml:lang="en">Weight</labelname>
   </axis>
-  <axis maximum="200" minimum="50" tag="wdth" default="50" name="width">
+  <axis name="width" tag="wdth" default="50" maximum="200" minimum="50">
    <labelname xml:lang="en">Width</labelname>
-   <map output="50" input="50"/>
-   <map output="100" input="100"/>
-   <map output="200" input="200"/>
+   <map input="50" output="50"/>
+   <map input="100" output="100"/>
+   <map input="200" output="200"/>
   </axis>
  </axes>
  <sources>
-  <source filename="masters/Agdasima-Bold.ufo" stylename="Bold" name="Bold" familyname="Agdasima">
+  <source name="Bold" familyname="Agdasima" stylename="Bold" filename="masters/Agdasima-Bold.ufo">
    <location>
     <dimension name="weight" xvalue="700"/>
     <dimension name="width" xvalue="50"/>
    </location>
   </source>
-  <source filename="masters/Agdasima-Regular.ufo" stylename="Regular" name="Regular" familyname="Agdasima">
+  <source name="Regular" familyname="Agdasima" stylename="Regular" filename="masters/Agdasima-Regular.ufo">
    <lib copy="1"/>
    <groups copy="1"/>
    <info copy="1"/>
@@ -63,13 +63,13 @@
   </dict>
  </lib>
  <instances>
-  <instance filename="instances/Agdasima-Regular.ufo" stylename="Regular" name="Regular" familyname="Agdasima">
+  <instance name="Regular" familyname="Agdasima" stylename="Regular" filename="instances/Agdasima-Regular.ufo">
    <location>
     <dimension name="width" xvalue="50"/>
     <dimension name="weight" xvalue="400"/>
    </location>
   </instance>
-  <instance filename="instances/Agdasima-Bold.ufo" stylename="Bold" name="Bold" familyname="Agdasima">
+  <instance name="Bold" familyname="Agdasima" stylename="Bold" filename="instances/Agdasima-Bold.ufo">
    <location>
     <dimension name="width" xvalue="50"/>
     <dimension name="weight" xvalue="700"/>
