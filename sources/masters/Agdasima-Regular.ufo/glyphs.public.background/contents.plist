@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>asterisk</key>
+    <string>asterisk.glif</string>
+    <key>exclam</key>
+    <string>exclam.glif</string>
+    <key>exclamdown</key>
+    <string>exclamdown.glif</string>
+    <key>periodcentered</key>
+    <string>periodcentered.glif</string>
+    <key>question</key>
+    <string>question.glif</string>
+  </dict>
+</plist>
