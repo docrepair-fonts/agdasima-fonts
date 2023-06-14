@@ -4,6 +4,18 @@
   <unicode hex="0394"/>
   <unicode hex="2206"/>
   <outline>
+    <contour>
+      <point x="101" y="0" type="line"/>
+      <point x="736" y="0" type="line"/>
+      <point x="736" y="1376" type="line"/>
+      <point x="101" y="1376" type="line"/>
+    </contour>
+    <contour>
+      <point x="141" y="40" type="line"/>
+      <point x="141" y="1336" type="line"/>
+      <point x="696" y="1336" type="line"/>
+      <point x="696" y="40" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

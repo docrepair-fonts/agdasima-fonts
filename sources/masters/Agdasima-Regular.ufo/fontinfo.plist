@@ -17,6 +17,8 @@
       <dict>
         <key>angle</key>
         <integer>0</integer>
+        <key>identifier</key>
+        <string>W4mVfx6QQ4</string>
         <key>name</key>
         <string>m</string>
         <key>x</key>
@@ -27,6 +29,8 @@
       <dict>
         <key>angle</key>
         <integer>0</integer>
+        <key>identifier</key>
+        <string>3O2FTCZzK7</string>
         <key>name</key>
         <string>f</string>
         <key>x</key>
@@ -37,6 +41,8 @@
       <dict>
         <key>angle</key>
         <integer>0</integer>
+        <key>identifier</key>
+        <string>nMrBQ6PGzM</string>
         <key>name</key>
         <string>f1</string>
         <key>x</key>
