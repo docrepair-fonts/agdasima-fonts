@@ -2,7 +2,6 @@
 <glyph name="mu" format="2">
   <advance width="784"/>
   <unicode hex="03BC"/>
-  <unicode hex="00B5"/>
   <outline>
     <contour>
       <point x="101" y="0" type="line"/>
